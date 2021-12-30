@@ -1,0 +1,18 @@
+  Dans /app/index.php :           
+
+
+
+
+<!-- ... -->
+
+                        <div class="zonescroll" id="zonescroll" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>  <!-- Rajouter une fermeture de div (manquante) -->
+
+
+<!-- ... -->
